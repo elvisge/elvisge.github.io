@@ -3,7 +3,4 @@ body {background-color:rgb(157,207,252);}
 #nav-td {width:300px; text-align:center;}
 
 #about-body {
-              max-width: fit-content;
-              max-height: fit-content;
-              background-image: url("myBackground.jpg");
-             }
+              background-image: url("myBackground.jpg");}
